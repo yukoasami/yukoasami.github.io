@@ -226,7 +226,13 @@ Asistent Manager
 HRD
 Karyawan
 Office Boy
-
+=============2x klik button==================
+jabatan = loadGaji();
+save = saveData();
+reset = Reset();
+update = updateData();
+delete = deleteData();
+exit = dispose();
 ===============================
 
 nama projek = CRUD_KARYAWAN
