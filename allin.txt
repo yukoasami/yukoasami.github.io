@@ -233,6 +233,8 @@ reset = Reset();
 update = updateData();
 delete = deleteData();
 exit = dispose();
+
+klik kanan pada table pilih mouse clicked = dataSelect();
 ===============================
 
 nama projek = CRUD_KARYAWAN
